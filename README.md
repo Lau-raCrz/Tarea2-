@@ -27,7 +27,7 @@ A diferencia de la computación clásica, que utiliza **bits** (`0` o `1`), la c
 
 
 ## 🎯 Ilustración: Arquitectura de computador cuantico
-![Arquitectura de computador cuantico]()
+![Imagen Alt] ()
 ---
 
 ## 📜 Historia, Ventajas y Desventajas
