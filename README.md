@@ -250,8 +250,8 @@ Estos sistemas tienen un enorme potencial en áreas como la medicina personaliza
 La **computación heterogénea** es un paradigma que combina en un mismo sistema **varios tipos de unidades de procesamiento con arquitecturas diferentes** para **optimizar el rendimiento y/o la eficiencia energética**.  
 En lugar de usar solo CPUs idénticas, se integran **procesadores especializados** como **GPUs**, **FPGAs**, **DSPs**, **TPUs** o **coprocesadores de IA**, cada uno diseñado para tareas específicas.
 
-📷 **Esquema típico**: CPU + GPU + FPGA en un mismo sistema  
-![Computación heterogénea](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Heterogeneous_computing_diagram.svg/800px-Heterogeneous_computing_diagram.svg.png)
+📷  CPU + GPU + FPGA en un mismo sistema  
+![Computación heterogénea](https://github.com/Lau-raCrz/Tarea2-/blob/df0496eecead509530ea9bf27987279bf1d32a67/Imagenes%20Digitales/image.png)
 
 ---
 
