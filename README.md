@@ -9,9 +9,12 @@ A diferencia de la computación clásica, que utiliza **bits** (`0` o `1`), la c
 
 ---
 
-## 🎯 Ilustración: Representación de un Qubit en la Esfera de Bloch
-![Esfera de Bloch](https://upload.wikimedia.org/wikipedia/commons/6/6b/Bloch_sphere.svg)
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Bloch_sphere.svg" 
+       alt=" Representación de un Qubit en la Esfera de Bloch" 
+       width="500"/>
+</p>
 ---
 
 ## 🏗️ Arquitectura de un Computador Cuántico
@@ -26,9 +29,13 @@ A diferencia de la computación clásica, que utiliza **bits** (`0` o `1`), la c
 | Planificador dinámico | Gestiona la ejecución de algoritmos cuánticos |
 
 
-## 🎯 Ilustración: Arquitectura de computador cuantico
-![Image Alt](https://github.com/Lau-raCrz/Tarea2-/blob/6469df6ff8228afd9a93f744a562dfd96a331c96/202211100000001.jpg)
+
 ---
+<p align="center">
+  <img src="https://github.com/Lau-raCrz/Tarea2-/blob/6469df6ff8228afd9a93f744a562dfd96a331c96/202211100000001.jpg" 
+       alt="Arquitectura de computador cuantico " 
+       width="500"/>
+</p>
 
 ## 📜 Historia, Ventajas y Desventajas
 
@@ -120,8 +127,12 @@ A diferencia de los **ordenadores clásicos**, que separan la memoria y el proce
 4. **Plasticidad sináptica** → El sistema se adapta en tiempo real sin reprogramación.  
 
 📷  Arquitectura Von Neumann  
-![](https://github.com/Lau-raCrz/Tarea2-/blob/ad6e0ba550cbf1e3fdced9eda49fcceefa3286a5/Imagenes%20Digitales/imagen_2025-08-24_155435462.png)
 
+<p align="center">
+  <img src="https://github.com/Lau-raCrz/Tarea2-/blob/ad6e0ba550cbf1e3fdced9eda49fcceefa3286a5/Imagenes%20Digitales/imagen_2025-08-24_155435462.png" 
+       alt="Arquitectura Von Neumann" 
+       width="500"/>
+</p>
 ---
 
 ## 🔌 Hardware Utilizado
@@ -134,10 +145,12 @@ A diferencia de los **ordenadores clásicos**, que separan la memoria y el proce
 | **SpiNNaker** | Sistema digital con 1 millón de núcleos | Proyecto europeo Human Brain |
 | **BrainScaleS** | Sistema analógico acelerado | Heidelberg University |
 
-📷 Intel Loihi 2 – Chip neuromórfico de segunda generación 
-![](https://github.com/Lau-raCrz/Tarea2-/blob/83694c8b26881128d8bbf424213bc12ba2be80aa/Imagenes%20Digitales/imagen_2025-08-24_154944347.png)
 
----
+<p align="center">
+  <img src="https://github.com/Lau-raCrz/Tarea2-/blob/83694c8b26881128d8bbf424213bc12ba2be80aa/Imagenes%20Digitales/imagen_2025-08-24_154944347.png" 
+       alt="Intel Loihi 2 – Chip neuromórfico de segunda generación" 
+       width="500"/>
+</p>
 
 ## 🔢 Tipos de Computación Neuromórfica
 
@@ -190,8 +203,6 @@ Estos sistemas tienen un enorme potencial en áreas como la medicina personaliza
 | **Salida** | Producción de proteínas, fluorescencia, impulsos eléctricos |
 | **Control** | *Biosoftware* o sistemas de soporte vital (temperatura, nutrientes, pH) |
 
-📷 **Ejemplo**: Esquema de un sistema basado en bacterias modificadas genéticamente  
-![Computación biológica](https://upload.wikimedia.org/wikipedia/commons/4/49/Synthetic_biology_circuit.png)
 
 ---
 
@@ -250,10 +261,13 @@ Estos sistemas tienen un enorme potencial en áreas como la medicina personaliza
 La **computación heterogénea** es un paradigma que combina en un mismo sistema **varios tipos de unidades de procesamiento con arquitecturas diferentes** para **optimizar el rendimiento y/o la eficiencia energética**.  
 En lugar de usar solo CPUs idénticas, se integran **procesadores especializados** como **GPUs**, **FPGAs**, **DSPs**, **TPUs** o **coprocesadores de IA**, cada uno diseñado para tareas específicas.
 
-📷  CPU + GPU + FPGA en un mismo sistema  
-![Computación heterogénea](https://github.com/Lau-raCrz/Tarea2-/blob/df0496eecead509530ea9bf27987279bf1d32a67/Imagenes%20Digitales/image.png)
 
----
+<p align="center">
+  <img src="https://github.com/Lau-raCrz/Tarea2-/blob/df0496eecead509530ea9bf27987279bf1d32a67/Imagenes%20Digitales/image.png" 
+       alt=" CPU + GPU + FPGA en un mismo sistema " 
+       width="500"/>
+</p>
+
 
 ## 📅 Historia y evolución
 
