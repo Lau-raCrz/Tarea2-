@@ -119,8 +119,8 @@ A diferencia de los **ordenadores clásicos**, que separan la memoria y el proce
 3. **Aprendizaje local** → Las sinapsis se ajustan según la actividad local, sin un control centralizado.  
 4. **Plasticidad sináptica** → El sistema se adapta en tiempo real sin reprogramación.  
 
-📷 **Ilustración**: Comparación entre arquitectura *Von Neumann* y neuromórfica  
-![Comparativa](https://upload.wikimedia.org/wikipedia/commons/3/3d/Neuro_computing_vs_von_Neumann.png)
+📷  Arquitectura Von Neumann  
+![](https://github.com/Lau-raCrz/Tarea2-/blob/ad6e0ba550cbf1e3fdced9eda49fcceefa3286a5/Imagenes%20Digitales/imagen_2025-08-24_155435462.png)
 
 ---
 
