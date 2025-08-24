@@ -134,8 +134,8 @@ A diferencia de los **ordenadores clásicos**, que separan la memoria y el proce
 | **SpiNNaker** | Sistema digital con 1 millón de núcleos | Proyecto europeo Human Brain |
 | **BrainScaleS** | Sistema analógico acelerado | Heidelberg University |
 
-📷 **Ejemplo**: *Intel Loihi 2 – Chip neuromórfico de segunda generación*  
-![Intel Loihi 2](https://newsroom.intel.com/wp-content/uploads/sites/11/2021/09/Intel-Loihi-2-chip.jpg)
+📷 Intel Loihi 2 – Chip neuromórfico de segunda generación 
+![](https://github.com/Lau-raCrz/Tarea2-/blob/83694c8b26881128d8bbf424213bc12ba2be80aa/Imagenes%20Digitales/imagen_2025-08-24_154944347.png)
 
 ---
 
@@ -340,7 +340,7 @@ Este enfoque:
 | **Nube Central** | Data centers remotos | Almacenamiento histórico y análisis a gran escala |
 
 📷 **Diagrama de arquitectura**  
-![Edge Computing Architecture](https://www.redhat.com/cms/managed-files/styles/wysiwyg_full_width/s3/2022-11/edge-computing-architecture-diagram.svg?itok=h0KZ9H6A)
+![]()
 
 💡 *Nota:* En entornos industriales, la capa *Edge Gateway* también puede incluir firewalls y sistemas de seguridad perimetral para proteger la infraestructura.
 
